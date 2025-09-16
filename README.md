@@ -1,2 +1,2 @@
-# Unity FMOD Template Game
-## This is the Unity project for the [FMOD blog post series](https://www.egill.rocks/blog/fmod/unity-blueprint-game-setup)
+# Unity FMOD game example
+## This is the Unity project for the [FMOD blog post series](https://www.egill.rocks/blog/fmod/unity-game-example)
